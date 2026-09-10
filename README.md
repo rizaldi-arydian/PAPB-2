@@ -8,4 +8,7 @@ Analisis Singkat Keuntungan Compose Dibandingkan XML Layout
 
 Keuntungan pertama Jetpack Compose adalah efisiensi pengembangan berkat pendekatan kode tunggal di mana seluruh tampilan antarmuka dan logika bisnis ditulis menggunakan satu bahasa pemrograman Kotlin. Pendekatan ini menghilangkan kebutuhan untuk membuat dan mengelola file XML terpisah, serta menghapus kode penghubung yang rumit seperti pemanggilan findViewById atau penyiapan View Binding yang biasa ditemui pada metode tradisional. Keuntungan kedua terletak pada paradigma pemograman deklaratif yang mempermudah pengelolaan state dan pembaruan antarmuka secara dinamis. Ketika ada data yang berubah, Compose akan melakukan proses recomposition untuk memperbarui komponen visual yang relevan secara otomatis tanpa memerlukan perintah pembaruan manual. Selain itu, Compose mengusung struktur kode yang sangat modular sehingga elemen antarmuka dapat dipecah menjadi fungsi-fungsi independen yang sangat mudah untuk digunakan kembali di bagian aplikasi lainnya.
 
-![Follow1](PAPB2_landscapefollow.jpeg)
+![Landscape Follow](landscapefollow.jpeg)
+![Landscape Unfollow](landscapeunfollow.jpeg)
+![Portrait Follow](potraitfollow.jpeg)
+![Portrait Unfollow](potraitunfollow.jpeg)
